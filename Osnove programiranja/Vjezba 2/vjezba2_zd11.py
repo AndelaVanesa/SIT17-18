@@ -10,7 +10,6 @@ while True:
     b = float(input("Molim, unesite b: "))
     c = float(input("Molim, unesite c: "))
 
-    #računanje determinante
     d = b ** 2 - 4 * a * c
 
     #provjera uvjeta
